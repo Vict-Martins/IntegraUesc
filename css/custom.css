@@ -1,0 +1,25 @@
+@charset "utf-8";
+body{
+	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	text-align: justify;
+	background-color: #fafafa;
+}
+#bordar1{
+    border-bottom: 2px solid;
+    border-color: #311b92;
+    width: 33%;
+}
+#bordar2{
+	border-bottom: 2px solid;
+    border-color: #ff9100;
+    width: 27%;
+}
+#corpo{
+	background-color: white;
+}
+p{
+ text-align: justify;
+}
+h6{
+	text-align: left;
+}
